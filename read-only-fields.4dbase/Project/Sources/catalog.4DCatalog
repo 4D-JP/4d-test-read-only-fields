@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
-<base name="read-only-fields" uuid="86DA30A4E030437E9145F1ABC2A9725A" collation_locale="ja">
+<base name="read-only-fields-project" uuid="86DA30A4E030437E9145F1ABC2A9725A" collation_locale="ja">
 	<schema name="DEFAULT_SCHEMA"/>
 	<table name="Table_1" uuid="16915BB116424297958A77AB256421D2" id="1">
 		<field name="ID" uuid="C669EBDC70384BB686C227171C451A90" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
