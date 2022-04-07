@@ -1,0 +1,23 @@
+{
+	"editors": [
+		{
+			"type": "form",
+			"id": 1576,
+			"previousTabType": "method",
+			"previousTabID": 2147483647,
+			"table": 1,
+			"formName": "Input"
+		},
+		{
+			"type": "method",
+			"id": 2147483647,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "TEST"
+			}
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}
