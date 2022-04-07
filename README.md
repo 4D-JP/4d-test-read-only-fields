@@ -11,3 +11,12 @@ tested on `19.278080`
 |locked record|no|no|no|
 
 <img width="682" alt="1" src="https://user-images.githubusercontent.com/1725068/162116968-b61ad91a-eb52-4031-8af7-1eac92c27045.png">
+
+## Project Mode
+
+|status|focusable|enterable|context menu|
+|:-:|:-:|:-:|:-:|
+|read only table|yes|yes|yes|
+|locked record|yes|yes|yes|
+
+<img width="682" alt="2" src="https://user-images.githubusercontent.com/1725068/162117222-5f7eee85-9b59-4c6a-b1b2-9ebbf63a06e2.png">
