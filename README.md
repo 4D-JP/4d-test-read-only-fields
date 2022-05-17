@@ -16,7 +16,7 @@ tested on `19.278080`
 
 |status|focusable|enterable|context menu|
 |:-:|:-:|:-:|:-:|
-|read only table|yes|yes|yes|
-|locked record|yes|yes|yes|
+|read only table|yes|no|yes|
+|locked record|yes|no|yes|
 
 <img width="682" alt="2" src="https://user-images.githubusercontent.com/1725068/162117222-5f7eee85-9b59-4c6a-b1b2-9ebbf63a06e2.png">
